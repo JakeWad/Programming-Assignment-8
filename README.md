@@ -38,9 +38,8 @@ Exit the program when “bye” is entered.
 
 This program is a simple REPL application
 
- 
 
-Sample Dialog between human and chatbot:
+	Sample Dialog between human and chatbot:
 
 		Hi, How are you? This is Chatbot Q.
 
@@ -98,4 +97,4 @@ Sample Dialog between human and chatbot:
 
 		Q>> Tell me more!
 
-You>>bye
+		You>>bye
